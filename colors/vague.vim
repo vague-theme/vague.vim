@@ -91,5 +91,10 @@ hi Visual term=NONE cterm=NONE ctermfg=NONE ctermbg=NONE gui=NONE guifg=NONE gui
 hi VisualNOS term=NONE cterm=NONE ctermfg=NONE ctermbg=NONE gui=underline guifg=NONE guibg=#606079 guisp=NONE
 hi WarningMsg term=NONE cterm=NONE ctermfg=NONE ctermbg=NONE gui=bold guifg=#f3be7c guibg=NONE guisp=NONE
 hi WildMenu term=NONE cterm=NONE ctermfg=NONE ctermbg=NONE gui=NONE guifg=#141415 guibg=#c48282 guisp=NONE
+hi htmlArg term=NONE cterm=NONE ctermfg=NONE ctermbg=NONE gui=NONE guifg=#aeaed1 guibg=NONE guisp=NONE
+hi htmlEndTag term=NONE cterm=NONE ctermfg=NONE ctermbg=NONE gui=NONE guifg=#cdcdcd guibg=NONE guisp=NONE
+hi htmlSpecialTagName term=NONE cterm=NONE ctermfg=NONE ctermbg=NONE gui=NONE guifg=#b4d4cf guibg=NONE guisp=NONE
+hi htmlTag term=NONE cterm=NONE ctermfg=NONE ctermbg=NONE gui=NONE guifg=#cdcdcd guibg=NONE guisp=NONE
+hi htmlTagName term=NONE cterm=NONE ctermfg=NONE ctermbg=NONE gui=NONE guifg=#b4d4cf guibg=NONE guisp=NONE
 hi netrwClassify term=NONE cterm=NONE ctermfg=NONE ctermbg=NONE gui=NONE guifg=#7e98e8 guibg=NONE guisp=NONE
 hi netrwTreeBar term=NONE cterm=NONE ctermfg=NONE ctermbg=NONE gui=NONE guifg=#606079 guibg=NONE guisp=NONE
