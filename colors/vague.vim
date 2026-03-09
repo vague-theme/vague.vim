@@ -30,7 +30,7 @@ hi DiffChange term=NONE cterm=NONE ctermfg=NONE ctermbg=NONE gui=NONE guifg=NONE
 hi DiffDelete term=NONE cterm=NONE ctermfg=NONE ctermbg=NONE gui=NONE guifg=NONE guibg=#3b242a guisp=NONE
 hi DiffText term=NONE cterm=NONE ctermfg=NONE ctermbg=NONE gui=NONE guifg=NONE guibg=#6d583e guisp=NONE
 hi Directory term=NONE cterm=NONE ctermfg=NONE ctermbg=NONE gui=NONE guifg=#7e98e8 guibg=NONE guisp=NONE
-hi Error term=NONE cterm=NONE ctermfg=NONE ctermbg=NONE gui=bold guifg=#d8647e guibg=NONE guisp=NONE
+hi Error term=NONE cterm=NONE ctermfg=NONE ctermbg=NONE gui=bold guifg=NONE guibg=#d8647e guisp=NONE
 hi ErrorMsg term=NONE cterm=NONE ctermfg=NONE ctermbg=NONE gui=bold guifg=#d8647e guibg=NONE guisp=NONE
 hi FoldColumn term=NONE cterm=NONE ctermfg=NONE ctermbg=NONE gui=NONE guifg=#606079 guibg=NONE guisp=NONE
 hi Folded term=NONE cterm=NONE ctermfg=NONE ctermbg=NONE gui=NONE guifg=#606079 guibg=#252530 guisp=NONE
