@@ -11,6 +11,8 @@ if exists('syntax on')
 endif
 let g:colors_name='vague'
 
+let g:terminal_ansi_colors = ['#252530', '#d8647e', '#7fa563', '#f3be7c', '#6e94b2', '#bb9dbd', '#aeaed1', '#cdcdcd', '#606079', '#e08398', '#99b782', '#f5cb96', '#8ba9c1', '#c9b1ca', '#bebeda', '#d7d7d7']
+
 if !(has('termguicolors') && &termguicolors) && !has('gui_running') && &t_Co != 256
   finish " Only gui is supported
 endif
