@@ -18,7 +18,3 @@ git clone https://github.com/vague-theme/vague.vim.git ~/.vim/pack/vendor/start/
 set termguicolors " Ensure this option is set
 colorscheme vague
 ```
-
-## Thanks to contributors
-
-- [skewb1k](https://github.com/skewb1k)
