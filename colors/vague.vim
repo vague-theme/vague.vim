@@ -1,6 +1,6 @@
 " Name:         vague
 " Description:  A cool, dark, low contrast colorscheme. Pastel yet vivid, like a fleeting memory... 
-" Maintainer:   skewb1k <skewb1kunix@gmail.com>
+" Maintainer:   Artem Krinitsyn <arkriny@gmail.com>
 " URL:          https://github.com/vague-theme/vague.vim
 " License:      MIT
 
