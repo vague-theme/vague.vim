@@ -46,7 +46,7 @@ hi Ignore cterm=NONE gui=NONE guifg=#cdcdcd guibg=#141415 guisp=NONE
 hi IncSearch cterm=NONE gui=NONE guifg=#141415 guibg=#405065 guisp=NONE
 hi Include cterm=NONE gui=NONE guifg=#6e94b2 guibg=NONE guisp=NONE
 hi LineNr cterm=NONE gui=NONE guifg=#606079 guibg=NONE guisp=NONE
-hi MatchParen cterm=NONE gui=NONE guifg=#cdcdcd guibg=#333738 guisp=NONE
+hi MatchParen cterm=bold gui=bold guifg=NONE guibg=#333738 guisp=NONE
 hi ModeMsg cterm=NONE gui=NONE guifg=#e8b589 guibg=NONE guisp=NONE
 hi MoreMsg cterm=bold gui=bold guifg=#c48282 guibg=NONE guisp=NONE
 hi NonText cterm=NONE gui=NONE guifg=#606079 guibg=NONE guisp=NONE
