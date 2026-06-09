@@ -29,7 +29,6 @@ hi CursorColumn cterm=NONE gui=NONE guifg=NONE guibg=#252530 guisp=NONE
 hi CursorLine cterm=NONE gui=NONE guifg=NONE guibg=#252530 guisp=NONE
 hi CursorLineNr cterm=NONE gui=NONE guifg=#cdcdcd guibg=NONE guisp=NONE
 hi Debug cterm=NONE gui=NONE guifg=#aeaed1 guibg=NONE guisp=NONE
-hi Define cterm=NONE gui=NONE guifg=#606079 guibg=NONE guisp=NONE
 hi Delimiter cterm=NONE gui=NONE guifg=#cdcdcd guibg=NONE guisp=NONE
 hi DiffAdd cterm=NONE gui=NONE guifg=NONE guibg=#293125 guisp=NONE
 hi DiffChange cterm=NONE gui=NONE guifg=NONE guibg=#41362a guisp=NONE
@@ -58,8 +57,7 @@ hi PmenuSbar cterm=NONE gui=NONE guifg=#cdcdcd guibg=#252530 guisp=NONE
 hi PmenuSel cterm=NONE gui=NONE guifg=#252530 guibg=#cdcdcd guisp=NONE
 hi PmenuShadow cterm=NONE gui=NONE guifg=NONE guibg=#333738 guisp=NONE
 hi PmenuThumb cterm=NONE gui=NONE guifg=NONE guibg=#606079 guisp=NONE
-hi PreCondit cterm=NONE gui=NONE guifg=#606079 guibg=NONE guisp=NONE
-hi Preproc cterm=NONE gui=NONE guifg=#aeaed1 guibg=NONE guisp=NONE
+hi PreProc cterm=NONE gui=NONE guifg=#6e94b2 guibg=NONE guisp=NONE
 hi Question cterm=NONE gui=NONE guifg=#aeaed1 guibg=NONE guisp=NONE
 hi QuickFixLine cterm=NONE gui=NONE guifg=NONE guibg=#1c1c24 guisp=NONE
 hi Removed cterm=NONE gui=NONE guifg=#d8647e guibg=NONE guisp=NONE
