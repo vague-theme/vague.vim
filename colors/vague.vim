@@ -5,10 +5,12 @@
 " License:      MIT
 
 set background=dark
+
 hi clear
 if exists('syntax on')
-    syntax reset
+  syntax reset
 endif
+
 let g:colors_name='vague'
 
 if !(has('termguicolors') && &termguicolors) && !has('gui_running') && &t_Co != 256
